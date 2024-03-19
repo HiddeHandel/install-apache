@@ -1,7 +1,7 @@
 dependencies: []
 
 galaxy_info:
-  role_name: install_apache2,php,php-mysql
+  role_name: install_apache2
   author: HiddeHandel
   description: install apache2,php,php-mysql on ubuntu,debian
   company: "my git repo"
