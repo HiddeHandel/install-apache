@@ -1,0 +1,8 @@
+- name: install web
+  hosts: changeme
+  remote_user: changeme
+  become: yes
+  roles:
+    - install_web
+
+
